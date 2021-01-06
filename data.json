@@ -1,0 +1,58 @@
+{
+  "data": {
+    "title": "Treehouse Projects",
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "This is a browser-based app that displays a random set of quotes on a timed loop. This project was a good way to practice using DOM manipulation, template literals, and dot notation. I made the quote automatically change every seven seconds using setInterval and I added a button and used an event listener to give the user the ability to change the quote at any moment.",
+        "technologies": ["JavaScript", "HTML", "CSS", "DOM"],
+        "live_link": "https://rfmcmillan.github.io/Random-Quote-Generator/",
+        "github_link": "https://github.com/rfmcmillan/Random-Quote-Generator",
+        "image_urls": ["/public/images/Random-Quote-Generator"]
+      },
+      {
+        "id": 1,
+        "project_name": "Student Directory",
+        "description": "For my second Treehouse project, I made a student directory that uses pagination so that the user can easily navigate between pages. I included a dynamic search feature that will filter the displayed student profiles on every key-press.",
+        "technologies": ["JavaScript", "HTML", "CSS", "DOM"],
+        "live_link": "https://rfmcmillan.github.io/Student-Directory/",
+        "github_link": "https://github.com/rfmcmillan/Student-Directory",
+        "image_urls": ["/public/images/Student-Directory"]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "This form collects information from users who want to sign up for a fictional conference. I also used regular expressions for form validation. I used a variety of html form elements to create the form, including checkboxes, dropdown-menus and text input fields.",
+        "technologies": [
+          "Regular Expressions",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "DOM"
+        ],
+        "live_link": "https://rfmcmillan.github.io/Interactive-Form/",
+        "github_link": "https://github.com/rfmcmillan/Interactive-Form",
+        "image_urls": ["/public/images/Interactive-Form"]
+      },
+      {
+        "id": 3,
+        "project_name": "Phrase Hunter",
+        "description": "This project uses object-oriented programming to create a browser-based, word-guessing game. I used a constructor to initialize the hidden phrase and the other game properties. I made a Game class that includes many of the methods that are used throughout the gameplay.",
+        "technologies": ["JavaScript", "Object-Oriented Programming", "HTML"],
+        "live_link": "https://rfmcmillan.github.io/Phrase-Hunter-Game/",
+        "github_link": "https://github.com/rfmcmillan/Phrase-Hunter-Game",
+        "image_urls": ["/public/images/Phrase-Hunter"]
+      },
+      {
+        "id": 4,
+        "project_name": "Employee Directory",
+        "description": "The Employee Directory project introduced me to third-party APIs. I used the Random User Generator API to create a fictional employee directory. The directory also used asynchronous programming to allow the page to run smoothly while data is requested from the Random User Generator API.",
+        "technologies": ["JavaScript", "APIs", "Asynchronous Programming"],
+        "live_link": "https://rfmcmillan.github.io/Employee-Directory/",
+        "github_link": "https://github.com/rfmcmillan/Employee-Directory",
+        "image_urls": ["/public/images/Employee-Directory"]
+      }
+    ]
+  }
+}
